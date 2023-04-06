@@ -1,4 +1,4 @@
-name: Run Azure Login with OpenID Connect Demo
+name: Run Azure Login with OpenID Connect Demo 1
 on: [push]
 
 permissions:
